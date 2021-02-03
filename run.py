@@ -2,7 +2,7 @@ import requests, math, random
 
 
     
-def run( sifre, oo):
+def run( sifre, no):
   
     veri={
 "anchor":"",
